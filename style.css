@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+#container {
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #121212;
+}
+
+#clock {
+    color: #66ff99;
+    padding:20px
+}
+
+.form-control {
+    border: solid skyblue; 
+    margin:auto;
+    width: 50%;
+    text-align: center;
+    padding: 5px;
+    font-size: 100%;
+}
+
+label {
+    font-size: 30px;
+    font-family: sans-serif;
+}
